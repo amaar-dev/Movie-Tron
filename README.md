@@ -12,4 +12,4 @@ A simple movie review sentiment analysing code which works via multinomialNB tra
 ## Accuracy test results for Model:
 <img width="555" alt="Screenshot 2025-06-27 at 7 38 14 pm" src="https://github.com/user-attachments/assets/0931c298-3344-4ee8-bc2e-fe73971e8a2c" />
 ### Note: the sentiment analyser was also tested on custom reviews i came up with myself (are included in the code) and were found to be accurate
-    link to dataset IMDB 50k: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+# link to dataset IMDB 50k: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
